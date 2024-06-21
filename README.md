@@ -22,7 +22,8 @@ Email: white_grapes_king@naver.com
 ## 📚 Github Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=whiteking1&show_icons=true&theme=ayu-mirage&hide_border=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=whiteking1&hide_border=true&langs_count=10&theme=ayu-mirage&layout=compact)
+<a href="https://github.com/whiteking1"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whiteking1&layout=compact&theme=nord&hide_border=true" /></a> 
+
 
 
 ## 📃 내가 만드는것
