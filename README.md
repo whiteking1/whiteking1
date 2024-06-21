@@ -14,7 +14,9 @@ Premiere pro
 Photoshop
 
 ## 📫 연락처
+
 Discord: @kingwhitegrape
+
 Email: white_grapes_king@naver.com
 
 
