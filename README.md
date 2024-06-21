@@ -36,6 +36,21 @@ Email: white_grapes_king@naver.com
 aws gpt 등 공부하다가 만들어낸 봇입니다.
 감스트님의 영감을 받아 책님기능을 제공합니다
 
+
+### 왕청포도 봇 사용가이드
+
+## 책님, 챗gpt 가이드
+![왕청포도 봇 help gpt 책님가이드 (1)](https://github.com/whiteking1/whiteking1/assets/76012910/b94a3870-74cc-481c-993d-4a832e0562a4)
+
+## 유튜브 음악 사용가이드
+![왕청포도-봇-유튜브-음악사용가이드](https://github.com/whiteking1/whiteking1/assets/76012910/ac2868fe-06b7-4741-af98-bb69ae3ed51e)
+
+## 음식추천 동물 사용가이드
+![왕청포도-봇-음식-동물](https://github.com/whiteking1/whiteking1/assets/76012910/0b9d6e8e-8475-4eba-b823-bc801599cc60)
+
+## 그 외에 기타 기능들
+![왕청포도-봇-기타-기능](https://github.com/whiteking1/whiteking1/assets/76012910/4418a23e-d9de-455a-9854-909e9500f02a)
+
 참고자료
 
 ![71F1IwacbVL _SY385_](https://github.com/whiteking1/whiteking1/assets/76012910/00b53694-a5e7-4f8b-bcad-307ca3b60c06)
