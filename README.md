@@ -32,7 +32,10 @@ Email: white_grapes_king@naver.com
 
 비공개중
 
-### 왕청포도
+### 왕청포도 봇
+
+![왕청포도 봇](https://github.com/whiteking1/whiteking1/assets/76012910/98d3c1f3-fdeb-40fc-8195-8dc173100fd9)
+
 
 aws gpt 등 공부하다가 만들어낸 봇입니다.
 감스트님의 영감을 받아 책님기능을 제공합니다
