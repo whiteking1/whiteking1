@@ -49,21 +49,24 @@ AWS GPT GCP 등 공부하다가 만들어낸 봇입니다.
 ### 왕청포도 봇 사용가이드
 서버는 GCP 무료 버전이라 느릴 수 있습니다!.
 ## 책님, 챗gpt 가이드
-![왕청포도 봇 help gpt 책님가이드 (1)](https://github.com/whiteking1/whiteking1/assets/76012910/b94a3870-74cc-481c-993d-4a832e0562a4)
+
+![왕청포도 봇 help gpt 책님가이드 (1)](https://github.com/whiteking1/whiteking1/assets/76012910/a06cdc0a-c002-4787-a4d7-6c93d635335d)
 
 ## 유튜브 음악 사용가이드
 
-![왕청포도 봇 유튜브 음악사용가이드](https://github.com/whiteking1/whiteking1/assets/76012910/0e353b28-d589-46d4-b023-abc8c5f850c2)
+![왕청포도 봇 유튜브 음악사용가이드](https://github.com/whiteking1/whiteking1/assets/76012910/21642d37-48b4-4694-a761-546c47839558)
 
 
 ## 음식추천 동물 사용가이드
 
-![왕청포도 봇 음식 동물](https://github.com/whiteking1/whiteking1/assets/76012910/773edc44-952d-46d6-8c51-b82e1215477d)
+
+![왕청포도 봇 음식 동물](https://github.com/whiteking1/whiteking1/assets/76012910/e7797913-569b-4b44-b0ac-012bc62b145d)
 
 
 ## 그 외에 기타 기능들
 
-![왕청포도 봇 기타 기능](https://github.com/whiteking1/whiteking1/assets/76012910/bf35cd70-befd-4274-bc9e-55b27aa8df08)
+![왕청포도 봇 기타 기능](https://github.com/whiteking1/whiteking1/assets/76012910/f4a3247a-64b3-4b72-ad34-5452b2bd34a1)
+
 
 참고자료
 
