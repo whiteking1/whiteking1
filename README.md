@@ -11,6 +11,7 @@ C++, C#, Python, Unreal Engine 5, Unity
 AWS, GCP
 Node.js, Next.js
 GitHub, Git
+XML
 
 Premiere pro
 Photoshop
@@ -32,6 +33,11 @@ Email: white_grapes_king@naver.com
 
 
 ## 📃 내가 만드는것
+
+### 백룸 번역!!
+
+![image](https://github.com/whiteking1/whiteking1/assets/76012910/f3f982a1-18b8-469a-98bd-740f5da9fc8e)
+
 
 ### 게임개발중
 
