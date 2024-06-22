@@ -7,6 +7,7 @@
 심히 게으른 개발자
 ## 제가 사용하는 툴과 언어입니다
 C++, C#, Python, Unreal Engine 5, Unity
+AWS, GCP
 Node.js, Next.js
 GitHub, Git
 
@@ -39,12 +40,12 @@ Email: white_grapes_king@naver.com
 ![왕청포도 봇](https://github.com/whiteking1/whiteking1/assets/76012910/98d3c1f3-fdeb-40fc-8195-8dc173100fd9)
 
 
-aws gpt 등 공부하다가 만들어낸 봇입니다.
+AWS GPT GCP 등 공부하다가 만들어낸 봇입니다.
 감스트님의 영감을 받아 책님기능을 제공합니다
 
 
 ### 왕청포도 봇 사용가이드
-
+서버는 GCP 무료 버전이라 느릴 수 있습니다!.
 ## 책님, 챗gpt 가이드
 ![왕청포도 봇 help gpt 책님가이드 (1)](https://github.com/whiteking1/whiteking1/assets/76012910/b94a3870-74cc-481c-993d-4a832e0562a4)
 
