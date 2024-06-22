@@ -27,9 +27,8 @@ Email: white_grapes_king@naver.com
 ## 📚 Github Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=whiteking1&show_icons=true&theme=ayu-mirage&hide_border=true&count_private=true)
-<a href="https://github.com/whiteking1"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whiteking1&layout=compact&theme=nord&hide_border=true" /></a> 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=whiteking1&hide_border=true&langs_count=10&theme=ayu-mirage&layout=compact)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=white_grape)](https://solved.ac/white_grape/)
-
 
 
 ## 📃 내가 만드는것
