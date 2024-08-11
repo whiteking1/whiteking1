@@ -7,7 +7,7 @@
 
 심히 게으른 개발자
 
-현직 게임 QA
+현직 위메이드 게임 QA 인턴
 
 ## 제가 사용하는 툴과 언어입니다
 C++, C#, Python, Unreal Engine 5, Unity
